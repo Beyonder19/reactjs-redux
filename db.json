@@ -1,19 +1,134 @@
 {
-  "users":[
-    {
-       "id":11351102535,
-        "name": "Fajri Illahi",
-        "lateness": 3,
-        "absence": 2,
-        "vocation": 4,
-        "__v": 0
-    },
-    {
-    "id": 4444433322,
-    "name": "Itachi",
-    "absence": "21",
-    "lateness": "1",
-    "vocation": "12"
-}
-]
-}
+    "users": [
+        {
+            "id": 1,
+            "name": "Fajri Illahi",
+            "lateness": 3,
+            "absence": 2,
+            "vocation": 4,
+            "__v": 0
+            },
+            {
+            "id": 2,
+            "name": "zahabi",
+            "lateness": 3,
+            "absence": 2,
+            "vocation": 5,
+            "__v": 0
+            },
+            {
+            "id": 3,
+            "name": "Toni",
+            "lateness": 1,
+            "absence": 1,
+            "vocation": 1,
+            "__v": 0
+            },
+            {
+            "id": 4,
+            "name": "Fadli",
+            "lateness": 0,
+            "absence": 0,
+            "vocation": 0,
+            "__v": 0
+            },
+            {
+            "id": 5,
+            "name": "Ajis",
+            "lateness": 2,
+            "absence": 1,
+            "vocation": 1,
+            "__v": 0
+            },
+            {
+            "id": 6,
+            "name": "Ami",
+            "lateness": 2,
+            "absence": 4,
+            "vocation": 1,
+            "__v": 0
+            },
+            {
+            "id": 7 ,
+            "name": "Ali",
+            "lateness": 1,
+            "absence": 2,
+            "vocation": 1,
+            "__v": 0
+            },
+            {
+            "id":8 ,
+            "name": "Jokowi",
+            "lateness": 1,
+            "absence": 2,
+            "vocation": 1,
+            "__v": 0
+            },
+            {
+            "id": 9,
+            "name": "Bambang",
+            "lateness": 5,
+            "absence": 1,
+            "vocation": 5,
+            "__v": 0
+            },
+            {
+            "id": 10,
+            "name": "Tono",
+            "lateness": 3,
+            "absence": 2,
+            "vocation": 5,
+            "__v": 0
+            },
+            {
+            "id": 11,
+            "name": "Ari",
+            "lateness": 2,
+            "absence": 21,
+            "vocation": 3,
+            "__v": 0
+            },
+            {
+            "id":12 ,
+            "name": "Naruto",
+            "lateness": 23,
+            "absence": 21,
+            "vocation": 66,
+            "__v": 0
+            },
+            {
+            "id": 13,
+            "name": "Sasuke",
+            "lateness": 20,
+            "absence": 40,
+            "vocation": 12,
+            "__v": 0
+            },
+            {
+            "id": 14,
+            "name": "Sakura",
+            "lateness": 1,
+            "absence": 1,
+            "vocation": 12,
+            "__v": 0
+            },
+            {
+            "id":15 ,
+            "name": "Itachi",
+            "lateness": 1,
+            "absence": 21,
+            "vocation": 12,
+            "__v": 0
+            },
+            {
+            "id": 16 ,
+            "name": "Itachi",
+            "lateness": 1,
+            "absence": 21,
+            "vocation": 12,
+            "__v": 0
+            }
+     
+    ]
+  }
+  
