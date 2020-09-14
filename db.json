@@ -1,75 +1,20 @@
 {
   "users": [
-    {
-      "id": 1,
-      "nama": "Fajri",
-      "telat": 0,
-      "absen": 24,
-      "cuti": "0919283773"
-    },
-    {
-      "id": 2,
-      "nama": "ojo",
-      "telat": 4,
-      "absen": 24,
-      "cuti": "3"
-    },
-    {
-      "id": 3,
-      "nama": "lalo",
-      "telat": 5,
-      "absen": 24,
-      "cuti": "4"
-    },
-    {
-      "id": 4,
-      "nama": "Ibal",
-      "telat": 0,
-      "absen": 24,
-      "cuti": "1"
-    },
-    {
-      "id": 5,
-      "nama": "ajis",
-      "telat": 2,
-      "absen": 24,
-      "cuti": "0"
-    },
-    {
-      "id": 6,
-      "nama": "Zahabi",
-      "telat": 1,
-      "absen": 24,
-      "cuti": "3"
-    },
-    {
-      "id": 7,
-      "nama": "Toni",
-      "telat": 3,
-      "absen": 24,
-      "cuti": "4"
-    },
-    {
-      "id": 8,
-      "nama": "Fadli",
-      "telat": 0,
-      "absen": 24,
-      "cuti": "2"
-    },
-    {
-      "id": 9,
-      "nama": "Ali",
-      "telat": 0,
-      "absen": 24,
-      "cuti": "1"
-    },
-    {
-      "id": 10,
-      "nama": "Fajri",
-      "telat": 0,
-      "umur": 24,
-      "nohp": "5"
-    }
-   
-  ]
+        {
+            "_id": "5f5f6fe817aa0028a0875df0",
+            "name": "coba",
+            "lateness": 3,
+            "absence": 2,
+            "vocation": 4,
+            "__v": 0
+        },
+        {
+            "_id": "5f5f6ff517aa0028a0875df1",
+            "name": "coba",
+            "lateness": 3,
+            "absence": 2,
+            "vocation": 4,
+            "__v": 0
+        }
+    ]
 }
