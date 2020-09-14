@@ -7,6 +7,13 @@
         "absence": 2,
         "vocation": 4,
         "__v": 0
-    }
+    },
+    {
+    "id": 4444433322,
+    "name": "Itachi",
+    "absence": "21",
+    "lateness": "1",
+    "vocation": "12"
+}
 ]
 }
