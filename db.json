@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Fajri",
+      "telat": 0,
+      "umur": 24,
+      "nohp": "0919283773"
+    },
+    {
+      "id": 2,
+      "nama": "ojo",
+      "telat": 4,
+      "umur": 24,
+      "nohp": "245555"
+    },
+    {
+      "id": 3,
+      "nama": "lalo",
+      "telat": 5,
+      "umur": 24,
+      "nohp": "23255"
+    },
+    {
+      "id": 4,
+      "nama": "Fajri",
+      "telat": 0,
+      "umur": 24,
+      "nohp": "0919283773"
+    },
+    {
+      "id": 5,
+      "nama": "Fajri",
+      "telat": 0,
+      "umur": 24,
+      "nohp": "0919283773"
+    },
+    {
+      "id": 6,
+      "nama": "Fajri",
+      "telat": 0,
+      "umur": 24,
+      "nohp": "0919283773"
+    },
+    {
+      "id": 7,
+      "nama": "Fajri",
+      "telat": 0,
+      "umur": 24,
+      "nohp": "0919283773"
+    },
+    {
+      "id": 8,
+      "nama": "Fajri",
+      "telat": 0,
+      "umur": 24,
+      "nohp": "0919283773"
+    },
+    {
+      "id": 9,
+      "nama": "Fajri",
+      "telat": 0,
+      "umur": 24,
+      "nohp": "0919283773"
+    },
+    {
+      "id": 10,
+      "nama": "Fajri",
+      "telat": 0,
+      "umur": 24,
+      "nohp": "0919283773"
+    },
+    {
+      "id": 11,
+      "nama": "Fajri",
+      "telat": 0,
+      "umur": 24,
+      "nohp": "0919283773"
+    },
+    {
+      "id": 12,
+      "nama": "Fajri",
+      "telat": 0,
+      "umur": 24,
+      "nohp": "0919283773"
+    },
+    {
+      "id": 13,
+      "nama": "Fajri",
+      "telat": 0,
+      "umur": 24,
+      "nohp": "0919283773"
+    }
+  ]
+}
