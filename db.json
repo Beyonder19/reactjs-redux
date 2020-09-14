@@ -4,92 +4,72 @@
       "id": 1,
       "nama": "Fajri",
       "telat": 0,
-      "umur": 24,
-      "nohp": "0919283773"
+      "absen": 24,
+      "cuti": "0919283773"
     },
     {
       "id": 2,
       "nama": "ojo",
       "telat": 4,
-      "umur": 24,
-      "nohp": "245555"
+      "absen": 24,
+      "cuti": "3"
     },
     {
       "id": 3,
-      "nama": "eee",
+      "nama": "lalo",
       "telat": 5,
-      "umur": 24,
-      "nohp": "23255"
+      "absen": 24,
+      "cuti": "4"
     },
     {
       "id": 4,
-      "nama": "Fajri",
+      "nama": "Ibal",
       "telat": 0,
-      "umur": 24,
-      "nohp": "0919283773"
+      "absen": 24,
+      "cuti": "1"
     },
     {
       "id": 5,
-      "nama": "Fajri",
-      "telat": 0,
-      "umur": 24,
-      "nohp": "0919283773"
+      "nama": "ajis",
+      "telat": 2,
+      "absen": 24,
+      "cuti": "0"
     },
     {
       "id": 6,
-      "nama": "Fajri",
-      "telat": 0,
-      "umur": 24,
-      "nohp": "0919283773"
+      "nama": "Zahabi",
+      "telat": 1,
+      "absen": 24,
+      "cuti": "3"
     },
     {
       "id": 7,
-      "nama": "Fajri",
-      "telat": 0,
-      "umur": 24,
-      "nohp": "0919283773"
+      "nama": "Toni",
+      "telat": 3,
+      "absen": 24,
+      "cuti": "4"
     },
     {
       "id": 8,
-      "nama": "Fajri",
+      "nama": "Fadli",
       "telat": 0,
-      "umur": 24,
-      "nohp": "0919283773"
+      "absen": 24,
+      "cuti": "2"
     },
     {
       "id": 9,
-      "nama": "Fajri",
+      "nama": "Ali",
       "telat": 0,
-      "umur": 24,
-      "nohp": "0919283773"
+      "absen": 24,
+      "cuti": "1"
     },
     {
       "id": 10,
       "nama": "Fajri",
       "telat": 0,
       "umur": 24,
-      "nohp": "0919283773"
-    },
-    {
-      "id": 11,
-      "nama": "Fajri",
-      "telat": 0,
-      "umur": 24,
-      "nohp": "0919283773"
-    },
-    {
-      "id": 12,
-      "nama": "Fajri",
-      "telat": 0,
-      "umur": 24,
-      "nohp": "0919283773"
-    },
-    {
-      "id": 13,
-      "nama": "Fajri",
-      "telat": 0,
-      "umur": 24,
-      "nohp": "0919283773"
+      "nohp": "5"
     }
+   
   ]
 }
