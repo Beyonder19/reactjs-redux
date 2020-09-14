@@ -1,20 +1,124 @@
 {
   "users": [
-        {
-            "_id": "5f5f6fe817aa0028a0875df0",
-            "name": "coba",
-            "lateness": 3,
-            "absence": 2,
-            "vocation": 4,
-            "__v": 0
-        },
-        {
-            "_id": "5f5f6ff517aa0028a0875df1",
-            "name": "coba",
-            "lateness": 3,
-            "absence": 2,
-            "vocation": 4,
-            "__v": 0
-        }
-    ]
+{
+_id: "5f5f78ca69ea31084c34de5e",
+name: "Fajri Illahi",
+lateness: 3,
+absence: 2,
+vocation: 4,
+__v: 0
+},
+{
+_id: "5f5f7a8b69ea31084c34de60",
+name: "zahabi",
+lateness: 3,
+absence: 2,
+vocation: 5,
+__v: 0
+},
+{
+_id: "5f5f7a9a69ea31084c34de61",
+name: "Toni",
+lateness: 1,
+absence: 1,
+vocation: 1,
+__v: 0
+},
+{
+_id: "5f5f7ac169ea31084c34de62",
+name: "Fadli",
+lateness: 0,
+absence: 0,
+vocation: 0,
+__v: 0
+},
+{
+_id: "5f5f7b3969ea31084c34de63",
+name: "Ajis",
+lateness: 2,
+absence: 1,
+vocation: 1,
+__v: 0
+},
+{
+_id: "5f5f7b4a69ea31084c34de64",
+name: "Ami",
+lateness: 2,
+absence: 4,
+vocation: 1,
+__v: 0
+},
+{
+_id: "5f5f7b5a69ea31084c34de65",
+name: "Ali",
+lateness: 1,
+absence: 2,
+vocation: 1,
+__v: 0
+},
+{
+_id: "5f5f7b6d69ea31084c34de66",
+name: "Jokowi",
+lateness: 1,
+absence: 2,
+vocation: 1,
+__v: 0
+},
+{
+_id: "5f5f7b7969ea31084c34de67",
+name: "Bambang",
+lateness: 5,
+absence: 1,
+vocation: 5,
+__v: 0
+},
+{
+_id: "5f5f7b8269ea31084c34de68",
+name: "Tono",
+lateness: 3,
+absence: 2,
+vocation: 5,
+__v: 0
+},
+{
+_id: "5f5f7ba469ea31084c34de69",
+name: "Ari",
+lateness: 2,
+absence: 21,
+vocation: 3,
+__v: 0
+},
+{
+_id: "5f5f7bb669ea31084c34de6a",
+name: "Naruto",
+lateness: 23,
+absence: 21,
+vocation: 66,
+__v: 0
+},
+{
+_id: "5f5f7bc369ea31084c34de6b",
+name: "Sasuke",
+lateness: 20,
+absence: 40,
+vocation: 12,
+__v: 0
+},
+{
+_id: "5f5f7bd069ea31084c34de6c",
+name: "Sakura",
+lateness: 1,
+absence: 1,
+vocation: 12,
+__v: 0
+},
+{
+_id: "5f5f7bd769ea31084c34de6d",
+name: "Itachi",
+lateness: 1,
+absence: 21,
+vocation: 12,
+__v: 0
+}
+]
 }
